@@ -1,0 +1,2 @@
+# Why-The-House-Always-Wins-Casino
+ The odds of the casino winning your money are greater than the odds of you winning the casino's money. That's because all casino games are designed to provide the house with a built-in edge, diminishing the chances and the size of potential payouts.Using Machine Learning we Can see that Playing the game more Number of times will always make a Loss whereas playing few number of times, you can make a profit
